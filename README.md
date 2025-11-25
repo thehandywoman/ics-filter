@@ -12,19 +12,12 @@ With just a few clicks, you can load your .ics file, automatically detect which 
 🔍 Reads and analyzes all VEVENT blocks
 
 🗓 Automatically detects all years and months present in the file
-
 🎛 Allows filtering events by selected years and months
-
 👀 Live preview showing how many events will remain after filtering
-
 📥 Generates a brand-new filtered .ics file with a custom filename
-
 🎨 Clean dark UI with pill-style buttons and smooth interactions
-
 📱 Fully responsive — works on desktop and mobile
-
 🔒 100% local, private, safe
-
 ⚡ Zero dependencies — pure HTML, CSS, and Vanilla JS
 
 Perfect for cleaning up messy Google Calendar exports, extracting specific date ranges, or preparing smaller .ics files for migration to another app or device.
