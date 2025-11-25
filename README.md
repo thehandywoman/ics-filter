@@ -6,6 +6,9 @@ ICS-Filter is a lightweight, fully client-side web application that lets you loa
 
 With just a few clicks, you can load your .ics file, automatically detect which years and months it contains, choose what you want to keep, preview the number of remaining events, and download a new, tidy .ics file.
 
+<img width="846" height="580" alt="image" src="https://github.com/user-attachments/assets/3346f9c5-cffc-48ad-8034-3902eacf3f97" />
+
+
 ## 🌟 Features
 
 🗂 Loads your .ics file directly in the browser
