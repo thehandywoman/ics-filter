@@ -83,7 +83,8 @@ function renderMonthButtons(months) {
     const labelName = monthNames[month - 1] || `miesiąc ${month}`;
 
     btn.innerHTML = `  <span class="num">${month}</span>
-    <span class="name">${monthNames[month]}</span>`;
+    <span class="name">${labelName}</span>`;
+
 
     btn.addEventListener("click", () => {
       btn.classList.toggle("selected");
@@ -388,4 +389,5 @@ btnDownload.addEventListener("click", () => {
   URL.revokeObjectURL(url);
 
   setStatus("success", `Pobrano plik: ${finalName}`);
+
 });
